@@ -1,3 +1,5 @@
+> **Archived.** This repository is no longer maintained. Its functionality lives in [laravolt/laravolt](https://github.com/laravolt/laravolt) (Laravolt v7+, `composer require laravolt/laravolt`). Docs: https://laravolt.dev
+
 # Laravolt Workflow Engine
 
 Sebuah engine untuk berkomunikasi dengan diagram BPMN melalui Camunda REST API untuk membuat aplikasi 2 minggu jadi.
@@ -128,4 +130,3 @@ class InvoiceNumberGenerator
 }
 
 ```
-
